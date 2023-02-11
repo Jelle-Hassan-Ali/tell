@@ -1,7 +1,3 @@
-class main{
-    <h1></.ss>
-    {
-        if(op =="")
-    }
+<h> jalle u<h>
 
-}
+
